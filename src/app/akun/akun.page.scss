@@ -1,0 +1,15 @@
+// Untuk center item
+.hcs {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+  }
+
+
+// Untuk efek noborder
+.noborder { 
+  border: none ;
+  box-shadow: none;
+  
+}
